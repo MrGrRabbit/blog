@@ -1,0 +1,76 @@
+body, html{
+  height: 100%;
+  background-color:#75B8A4;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.block{
+  background:url();
+/*  background: #fff9c4;*/
+}
+.tg{color: #BC51B1;
+}
+
+.sticky-top{
+  font-size: 24px;
+/*  color:#fff176;*/
+  background-color:#B4F4DEE0;
+  padding: 5px;
+  text-align: center;
+  border-radius: 25px;
+
+}
+.butt{
+  margin: 7px 0 -7px 0;
+}
+.menu{
+  text-align: center;
+  padding: 0 50px 0 50px;;
+}
+.imagePic{
+  width:200px;
+  height: 130px;
+  border-radius: 5px;
+  margin: 5px;
+  border: 1px solid #000;
+  box-shadow: 3px 2px 15px #2B1015;
+}
+
+footer{
+  background:#070314;
+  padding: 50px;
+  color:white;
+  margin-top: 20px;
+
+}
+svg{
+  font-size: 30px;
+}
+header{
+  text-align: center;
+}
+.AboutUs{
+  font-size: 12px;
+}
+.menuLinks{
+  text-align: center;
+}
+.text-right{
+  padding-top: 5px;
+}
+.news{
+  font-size: 30px;
+}
+.media{
+  display: none;
+  border: black;
+  color:white;
+  margin-top: 150px;
+  margin-left: 20px;
+  border: 4px solid black; /* Параметры границы */
+  background: grey; /* Цвет фона */
+  padding: 50px;
+  padding-right: 150px;
+}
